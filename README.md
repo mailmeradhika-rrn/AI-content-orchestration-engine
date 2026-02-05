@@ -21,7 +21,7 @@ I architected an end-to-end **Human-in-the-Loop (HITL)** system using **Vellum**
 2.  **Topic Extraction:** It searches my Gmail for the subject "LinkedIn Topic" sent within the last 24 hours to ensure relevance.
 3.  **Intelligent Fallback:** If no email is found, the **Resolve Topic** node utilizes a curated list of fallback themes, such as the transition from Investment Banking to Supply Chain AI.
 4.  **AI Generation:** A prompt utilizes my background as a former **Deutsche Bank AVP** to generate an authentic post with hooks, hashtags, and engagement questions.
-5.  **Human-in-the-Loop:** The finalized draft is sent back to my email, ready to be edited before posting[Vellum-Gmail HITL Content Creation Workflow.zip](https://github.com/user-attachments/files/25097480/Vellum-Gmail.HITL.Content.Creation.Workflow.zip)
+5.  **Human-in-the-Loop:** The finalized draft is sent back to my email, ready to be edited before posting
 .
 
 ---
@@ -32,6 +32,3 @@ I architected an end-to-end **Human-in-the-Loop (HITL)** system using **Vellum**
 - **Flexible Inputs:** I can send a topic via email or type it directly into the Vellum input panel.
 
 ---
-
-## 📂 Project Assets
-- 'Vellum-Gmail HITL Content Creation Workflow.zip' - workflow download from Vellum.
